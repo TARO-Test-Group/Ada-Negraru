@@ -65,10 +65,7 @@
         <item>Series 3: Publications, ephemera, military effects, 1942-1946.</item>
       </list>
     </arrangement>
-    <relatedmaterial encodinganalog="500">
-      <head>Related Materials</head>
-      <p>World War II photographs, Medical Museum and Arts Service.  DeGolyer Library, Ag2002.1454.</p>
-    </relatedmaterial>
+   
     <accessrestrict encodinganalog="506">
       <head>Access to Collection:</head>
       <p>Collection is open for research use.</p>
@@ -95,7 +92,7 @@
         <geogname source="lcsh" encodinganalog="651">Leyte Gulf, Battle of, Philippines, 1944-- Photographs.</geogname>
         <genreform source="gmgpc" encodinganalog="655">Letters.</genreform>
         <genreform source="gmgpc" encodinganalog="655">Photographs.</genreform>
-        <genreform source="gmgpc" encodinganalog="655">Military records.</genreform>
+        
       </controlaccess>
     </controlaccess>
     <prefercite encodinganalog="524">
@@ -110,10 +107,7 @@
       <head>Processing Information</head>
       <p>The collection was processed, arranged and described by the archivist. The letters were placed in archival folders and photographs housed in acid-free sleeves. Periodicals and military effects were rehoused in archival boxes. </p>
     </processinfo>
-    <processinfo encodinganalog="583">
-      <head>Processed by</head>
-      <p>Collection processed and finding aid written by Ada Negraru, 2015.</p>
-    </processinfo>
+   
     <processinfo encodinganalog="583">
       <head>Encoded by</head>
       <p>Ada Negraru, 2015.</p>
@@ -144,13 +138,7 @@
             <unittitle>Camp Callan, California, May-November, 1943</unittitle>
           </did>
         </c02>
-        <c02>
-          <did>
-            <container type="Box">1</container>
-            <container type="Folder">08</container>
-            <unittitle>Fort Ord, California, January 1944</unittitle>
-          </did>
-        </c02>
+        
         <c02>
           <did>
             <container type="Box">1</container>
