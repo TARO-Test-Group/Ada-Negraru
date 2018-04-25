@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 ead.xsd" relatedencoding="MARC21">
+  <eadheader audience="internal" langencoding="iso639-2" encodinganalog="local choice">
+    <eadid mainagencycode="US-txdam" countrycode="US">urn:taro:smu.00273</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>John C. Cox Jr. World War II papers</titleproper>
+        <subtitle>A Guide to the Collection</subtitle>
+        <author>Finding aid prepared by Ada Negraru, 2015. </author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>DeGolyer Library</publisher>
+        <address>
+          <addressline>P. O. Box 750396</addressline>
+          <addressline>Southern Methodist University</addressline>
+          <addressline>Dallas, TX 75275-0396</addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Finding aid encoded by Ada Negraru,
+          <date>2015</date>.</creation>
+      <langusage>Finding aid written in <language langcode="eng">English.</language></langusage>
+      <descrules>Description based on <title xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="">DACS</title>.</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory" relatedencoding="MARC 21">
+    <did>
+      <head>Overview</head>
+      <repository label="Repository" encodinganalog="852$a">
+        <extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="http://www.smu.edu/cul/degolyer/index.html">
+          <corpname encodinganalog="852$a"><subarea>DeGolyer Library,</subarea> Southern Methodist University</corpname>
+        </extref>
+      </repository>
+      <origination label="Creator:" encodinganalog="100">
+        <persname>Cox, John C., Jr., 1918-1999</persname>
+      </origination>
+      <unittitle label="Title:" encodinganalog="245">John C. Cox Jr. World War II papers</unittitle>
+      <unitdate type="inclusive" label="Inclusive Dates:" encodinganalog="264$c" normal="1941/1946">1941-1946</unitdate>
+      <unitdate type="bulk" label="Bulk Dates:" encodinganalog="264$c" normal="1943/1946">1943-1946.</unitdate>
+      <physdesc label="Extent:" encodinganalog="300">6 boxes (3.5 linear feet)</physdesc>
+      <abstract label="Abstract:" encodinganalog="520">John C. Cox, Jr. served in the United States Army in the South Pacific during World War II. The collection includes correspondence, photographs and other materials related to his military service. </abstract>
+      <unitid countrycode="US" repositorycode="US-TxDaDF" encodinganalog="099" label="Accession No:">MSS 105, MSS 105X</unitid>
+      <langmaterial encodinganalog="546">Material is in <language langcode="eng">English</language></langmaterial>
+    </did>
+    <bioghist encodinganalog="545">
+      <head>Biographical Note</head>
+      <p>A World War II veteran, John C. Cox, Jr. was born on September 20, 1918 in Dallas, Texas. He graduated from Southern Methodist University with a B.S. in 1940, and a Juris Doctor degree in 1942. During World War II, Cox served in the United States army in the South Pacific. He enlisted as private first class and attained the rank of master sergeant by the end of the war. Cox received military training in Camp Wolters, Texas, the 57th training battalion in the Camp Callan anti-aircraft and coastal artillery replacement training center near La Jolla, California, and Fort Ord, California. In April 1944, Cox sailed with his troop to New Guinea and then to the Philippines in October 1944. An amateur photographer, Cox captured the war destruction and local life in hundreds of snapshots. He returned to the United States in January 1946. </p>
+      <p>After his World War II service, Cox practiced law briefly, and then worked in the mortgage loan business until retirement. He died in Dallas, Texas on April 14, 1999.</p>
+      <p>Sources:</p>
+      <p>John C. Cox, Jr. obituary, <emph render="italic">Dallas Morning News</emph>, April 15, 1999</p>
+      <p>“59 veterans from Dallas en route home,” <emph render="italic">Dallas Times Herald,</emph> January 13, 1946</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <head>Scope and Contents of the Collection</head>
+      <p>The collection includes correspondence addressed by John C. Cox, Jr. to his family in Dallas between 1943 and 1946, several hundred photographs taken during military training and deployment in the South Pacific, military effects, ephemera and scattered issues of military periodicals. The materials illustrate life in military training centers in Texas and California, as well as the effects of war on the South Pacific area of New Guinea and Leyte, Philippines. </p>
+    </scopecontent>
+    <arrangement encodinganalog="351">
+      <head>Arrangement of the Collection</head>
+      <p>The collection is organized into three series:</p>
+      <list type="simple">
+        <item>Series 1: Correspondence, 1943-1946</item>
+        <item>Series 2: Photographs, 1941-1946
+                        <list><item>Subseries 2.1: Prints and postcards</item><item>Subseries 2.2: Negatives</item></list></item>
+        <item>Series 3: Publications, ephemera, military effects, 1942-1946.</item>
+      </list>
+    </arrangement>
+    <relatedmaterial encodinganalog="500">
+      <head>Related Materials</head>
+      <p>World War II photographs, Medical Museum and Arts Service.  DeGolyer Library, Ag2002.1454.</p>
+    </relatedmaterial>
+    <accessrestrict encodinganalog="506">
+      <head>Access to Collection:</head>
+      <p>Collection is open for research use.</p>
+    </accessrestrict>
+    <userestrict encodinganalog="540">
+      <head>Publication Rights:</head>
+      <p>Permission to publish materials must be obtained from the Director of the DeGolyer Library.</p>
+    </userestrict>
+    <userestrict encodinganalog="540">
+      <head>Copyright Statement:</head>
+      <p>It is the responsibility of the user to obtain copyright authorization.</p>
+    </userestrict>
+    <controlaccess>
+      <head>Access Terms</head>
+      <p>This collection is indexed under the following terms in the Southern Methodist University Libraries' online catalog. Researchers desiring related materials may search the catalog using these terms.</p>
+      <controlaccess>
+        <persname source="local" encodinganalog="600">Cox, John C., Jr., 1918-1999.</persname>
+        <famname source="local" encodinganalog="600">Cox family.</famname>
+        <subject source="lcsh" encodinganalog="650">United States. Army – Military life – History – 20th century.</subject>
+        <subject source="lcsh" encodinganalog="650">World War, 1939-1945 – Personal narratives, American.</subject>
+        <subject source="lcsh" encodinganalog="650">World War, 1939-1945--Pacific Area.</subject>
+        <subject source="lcsh" encodinganalog="650">Military training camps—Texas – History.</subject>
+        <subject source="lcsh" encodinganalog="650">Military training camps –California – History.</subject>
+        <geogname source="lcsh" encodinganalog="651">Leyte Gulf, Battle of, Philippines, 1944-- Photographs.</geogname>
+        <genreform source="gmgpc" encodinganalog="655">Letters.</genreform>
+        <genreform source="gmgpc" encodinganalog="655">Photographs.</genreform>
+        <genreform source="gmgpc" encodinganalog="655">Military records.</genreform>
+      </controlaccess>
+    </controlaccess>
+    <prefercite encodinganalog="524">
+      <head>Preferred Citation</head>
+      <p>John C. Cox, Jr. World War II papers, DeGolyer Library, Southern Methodist University.</p>
+    </prefercite>
+    <acqinfo encodinganalog="541">
+      <head>Acquisition Information</head>
+      <p>Gift, Cox family, 2009.</p>
+    </acqinfo>
+    <processinfo encodinganalog="583">
+      <head>Processing Information</head>
+      <p>The collection was processed, arranged and described by the archivist. The letters were placed in archival folders and photographs housed in acid-free sleeves. Periodicals and military effects were rehoused in archival boxes. </p>
+    </processinfo>
+    <processinfo encodinganalog="583">
+      <head>Processed by</head>
+      <p>Collection processed and finding aid written by Ada Negraru, 2015.</p>
+    </processinfo>
+    <processinfo encodinganalog="583">
+      <head>Encoded by</head>
+      <p>Ada Negraru, 2015.</p>
+    </processinfo>
+    <dsc type="combined">
+      <head>Detailed Description of the Collection</head>
+      <c01 level="series" id="series1">
+        <did>
+          <unittitle>Series 1: Correspondence</unittitle>
+          <physdesc>
+            <extent>2 boxes</extent>
+          </physdesc>
+        </did>
+        <scopecontent>
+          <p>This series includes the letters sent by John C. Cox, Jr. to his family in Dallas. Included are handwritten letters and postcards sent from Texas and California, and V-mail correspondence from New Guinea and the Philippines. </p>
+        </scopecontent>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">01</container>
+            <unittitle>Camp Wolters, Texas, Fort Ord, California, and Camp Callan, California, March - April, 1943</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">02-07</container>
+            <unittitle>Camp Callan, California, May-November, 1943</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">08</container>
+            <unittitle>Fort Ord, California, January 1944</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">09</container>
+            <unittitle>Fort Ord and San Francisco, California, February 1944</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">10</container>
+            <unittitle>San Francisco, California, March 1944</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">11-16</container>
+            <unittitle>New Guinea, April – September, 1944  </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">17-20</container>
+            <unittitle>Philippines, October, 1944– December, 1945</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">21</container>
+            <unittitle>Military records, 1943 - 1946</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series" id="series2">
+        <did>
+
+          <unittitle>Series 2: Photographs</unittitle>
+          <physdesc>
+            <extent>2 boxes; 3 framed photographs; 2 panoramic prints</extent>
+          </physdesc>
+        </did>
+        <scopecontent>
+          <p>This series contains circa 600 black and white photographic prints and circa 300 negatives. Some of the photographs taken in New Guinea and Philippines are marked “censored.”  One folder contains images of the Battle of Leyte Gulf, by an unknown photographer. Also included are two panoramic group portraits of soldiers in training at Camp Callan, California, as well as two framed portraits of John C. Cox, Jr. and one group photograph of John C. Cox, Jr. and Delta-Chi fraternity members playing musical instruments. </p>
+        </scopecontent>
+        <c02>
+          <did>
+            <unittitle>
+              <emph render="bold">Subseries 2.1: Prints and postcards</emph>
+            </unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="Box">3</container>
+              <container type="Folder">01-02</container>
+              <unittitle>Military training, Texas and California, 1943-1944</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Box">3</container>
+              <container type="Folder">03</container>
+              <unittitle>New Guinea, 1944</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Box">3</container>
+              <container type="Folder">04</container>
+              <unittitle>On the way to Philippines, October 1944</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Box">3</container>
+              <container type="Folder">05</container>
+              <unittitle>Battle of Leyte Gulf (unknown photographer), October 1944 </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Box">3</container>
+              <container type="Folder">06-07</container>
+              <unittitle>Leyte, Philippines, 1944-1945</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Box">3</container>
+              <container type="Folder">08</container>
+              <unittitle>Return to the United States, 1945-1946</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Box">5X</container>
+              <unittitle>Rolled-up panoramic prints</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Box">5X</container>
+              <unittitle>1.	Battery “A” 57th A. A. Training Battalion, Camp Callan, California, May 22, 1943</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Box">5X</container>
+              <unittitle>2.	Battery “B” 57th A. A. Training Battalion, Camp Callan, California, September 11, 1943</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>
+              <emph render="bold">Subseries 2.2: Negatives</emph>
+            </unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="Box">4</container>
+              <container type="Part">1</container>
+              <unittitle>New Guinea, 1944</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Box">4</container>
+              <container type="Part">2</container>
+              <unittitle>On the way to Philippines, 1944</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Box">4</container>
+              <container type="Part">3</container>
+              <unittitle>Philippines, 1944-1945</unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series" id="series3">
+        <did>
+  
+          <unittitle>Series 3: Publications, ephemera, military effects</unittitle>
+          <physdesc>
+            <extent>2 boxes and 6 folders</extent>
+          </physdesc>
+        </did>
+        <scopecontent>
+          <p>Series 3 includes publications, ephemera, disparate issues of army magazines and other periodicals, newspaper clips, and Cox’s personal military effects. </p>
+        </scopecontent>
+        <c02>
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">22</container>
+            <unittitle>Commencement booklets, Southern Methodist University, May 1942</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">23</container>
+            <unittitle><emph render="italic">The New Testament</emph>; cover inscribed “For God and our country.”  Copy presented to John C. Cox, Jr., by his family.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">24</container>
+            <unittitle>Pamphlet, “How the gun works” </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">25</container>
+            <unittitle>Pamphlet, “Pocket guide to New Guinea and the Solomons”</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">26</container>
+            <unittitle>Ad for un-censored war photographs</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">27</container>
+            <unittitle>Address book</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">5X</container>
+            <unittitle>Periodicals: <emph render="italic">The China Lantern</emph> (June 22, 1945), <emph render="italic">Daily Pacifican</emph> (August, 1945); <emph render="italic">Guinea Gold</emph> (May-September, 1944), <emph render="italic">Newsweek</emph> (August 17, 1942), <emph render="italic">Special Service Weekly </emph> (August 26, 1944)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">6</container>
+            <unittitle>Personal military effects: name tags, military insignia, sack, cap, belt, scarf, key holder, hair pillow, slippers. </unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>
